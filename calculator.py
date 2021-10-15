@@ -36,4 +36,3 @@ def parse_input():
 		exit()
 	return calculator(num1,num2,operator)
 
-print(parse_input())
