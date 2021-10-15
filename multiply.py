@@ -1,4 +1,8 @@
-def multiply_list(list):
+def multiply_list(list)
+	"""
+	calculate each element in array
+
+	""":
 	result = 1
 
 	for n in list:
