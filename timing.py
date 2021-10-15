@@ -11,4 +11,4 @@ def calculate_time(function):
 def sayHi():
 	time.sleep(2)
 
-sayHi_v2 = calculate_time(sayHi)
+#sayHi_v2 = calculate_time(sayHi)
