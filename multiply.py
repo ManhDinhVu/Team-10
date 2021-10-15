@@ -13,4 +13,3 @@ def multiply_list(list)
 			return False
 	return result
 
-print(multiply_list([1,2,3]))
