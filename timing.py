@@ -13,4 +13,3 @@ def sayHi():
 
 sayHi_v2 = calculate_time(sayHi)
 
-sayHi_v2()
